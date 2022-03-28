@@ -1,0 +1,24 @@
+ไลบรารี่สำหรับบอร์ด TITAN-44 by Mr.Patikhom Konkeng
+
+= Library for TITAN-44 Arduino =
+
+With the Arduino TITAN-44 board for IoT developement. 
+
+For more information about this library please visit us at
+https://www.sumtech.co.th/product-detail.html?pd_code=TITAN-44
+
+== License ==
+Copyright (c) 2009 Summation Technology Co.,Ltd.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software.
